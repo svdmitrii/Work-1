@@ -1,0 +1,12 @@
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork-1.vbprojAssemblyReference.cache
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork_1.SLAU.resources
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork-1.vbproj.GenerateResource.cache
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\bin\Release\KursWork-1.exe.config
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\bin\Release\KursWork-1.exe
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\bin\Release\KursWork-1.pdb
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\bin\Release\KursWork-1.xml
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork_1.Resources.resources
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork-1.vbproj.CoreCompileInputs.cache
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork-1.exe
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork-1.xml
+E:\Образование\ИНФОРМАТ\Visual Studio\KursWork-1\KursWork-1\obj\Release\KursWork-1.pdb
